@@ -1,54 +1,73 @@
-# 👋 ¡Hola! Soy Juan Vaccari
+# 👋 Hola, soy Juan Vaccari
 
-Apasionado por el análisis de datos, analizar problemas y buscar soluciones. Actualmente estoy ofreciendo mis primeros servicios freelance en limpieza, exploración y visualización de datos.
+Analista de datos en formación, enfocado en **limpieza, exploración y visualización de datos** para transformar información en insights accionables.  
+Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y business intelligence.
 
-Formación: 
-- Ciencia de datos en organizaciónes (Universidad Nacional deLa Plata) - En curso
-- Bussines Intelligence (Talento Tech - Buenos Aires Aprende) - 2025
-- Data Analytics con PowerBI (Universidad Ciudad de Buenos Aires) - 2024
-- Programación inicial con Python (Talento Tech - Buenos Aires Aprende) - 2024
-- Big Data/Data Analytics (Talento Tech - Buenos Aires Aprende) - 2024
+---
 
-📌 **Áreas de trabajo**:  
-- Limpieza de datos  
-- Consultas y extracción en SQL  
-- Dashboards interactivos  
-- Visualización exploratoria
+## 🎓 Formación
 
-🛠️ **Herramientas que utilizo**:  
-Python · Pandas · Power BI · Looker Studio · Google Sheets · Colab
+- **Ciencia de Datos en Organizaciones** — Universidad Nacional de La Plata *(en curso)*
+- **Business Intelligence** — Talento Tech / Buenos Aires Aprende *(2025)*
+- **Data Analytics con Power BI** — Universidad de la Ciudad de Buenos Aires *(2024)*
+- **Big Data / Data Analytics** — Talento Tech / Buenos Aires Aprende *(2024)*
+- **Programación inicial con Python** — Talento Tech / Buenos Aires Aprende *(2024)*
 
+---
 
-**Habilidades Técnicas**:
+## 📌 Áreas de trabajo
 
-*Lenguajes de Programación*
-- Python (tratamiento de csv, data frame, herramientas de análisis Numpy, Pandas, Matplotlib)
-- SQL (Querys, normalización, PK y FK).
-- Pascal (nivel inicial)
+- Limpieza y preparación de datos (Data Cleaning)
+- Exploración y análisis exploratorio (EDA)
+- Consultas y extracción de datos con SQL
+- Dashboards interactivos
+- Visualización de datos para toma de decisiones
 
-*Bases de datos, Herramientas BI, Visualización*
-- Power BI (modelado de bases de datos relacionales, dashboards)
+---
+
+## 🛠️ Herramientas y tecnologías
+
+**Lenguajes**
+- Python (Pandas, NumPy, Matplotlib)
+- SQL
+- Pascal
+
+**Business Intelligence & Visualización**
+- Power BI (modelado relacional, dashboards)
 - Looker Studio
-- Google Sheets (bases de datos tabulares, fórmulas, tablas dinámicas, listas, formato condicional, gráficos)
+- Google Sheets (tablas dinámicas, fórmulas, visualizaciones)
+
+**Entorno de trabajo**
 - Google Colab
 - Kaggle
 
-*Algoritmia y Lógica de programación*
-- Pseudocódigo y diagramas de flujo (Psint)
-- Lógica proposicional (tablas de verdad, operaciones proposicionales)
-- Estructuras de control, funciones y modularización
+---
 
-*Análisis de Datos y Estadística*
+## 📊 Análisis de datos & fundamentos
+
 - Medidas de tendencia central y dispersión
 - Distribuciones de frecuencia e histogramas
-  
+- Lógica de programación y algoritmia
+- Pseudocódigo y diagramas de flujo (PSeInt)
 
+---
 
+## 📁 Proyectos destacados
 
-📁 **Proyectos publicados**:
-- [Análisis de tránsito en peajes de Buenos Aires](https://github.com/VaccariJuanP/transito-peajes-ba)  
-  (Dashboard interactivo, visualización en Colab + Looker)
+### 🛒 Online Retail — Customer, Product & Seasonality Analysis
+**Python · Pandas · Matplotlib · EDA**
 
-📫 **Contacto**: 
+Análisis integral de un e-commerce:
+- Concentración de revenue (Pareto)
+- Segmentación de clientes por recurrencia
+- Análisis de productos y riesgo de dependencia
+- Estacionalidad mensual, semanal y horaria
 
-vaccari.juan.pablo@gmail.com
+🔗 Repositorio:  
+https://github.com/VaccariJuanP/OnlineRetail
+
+---
+
+## 📫 Contacto
+
+📧 **Email:** vaccari.juan.pablo@gmail.com

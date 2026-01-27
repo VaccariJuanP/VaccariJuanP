@@ -54,15 +54,15 @@ Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y
 
 ## 📁 Proyectos destacados
 
-### 🪙: Bank- Credit-Conversion analysis 
+### 🪙 Bank- Credit-Conversion analysis 
 **Python · POWER BI · Pandas · Matplotlib · EDA**
 
 Analysis of credit funnel conversion and gender bias using Python and Power BI:
 Main objectives:
 
--Identify stages with the highest drop-off.
--Analyze the influence of demographic variables (age, gender) and income on approval.
--Detect systemic biases in the credit granting model.
+- Identify stages with the highest drop-off.
+- Analyze the influence of demographic variables (age, gender) and income on approval.
+- Detect systemic biases in the credit granting model.
 
 🔗 Repositorio:  
 https://github.com/VaccariJuanP/credit-conversion-bias-analysis

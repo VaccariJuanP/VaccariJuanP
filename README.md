@@ -1,11 +1,11 @@
-# 👋 Hola, soy Juan Vaccari
+## Hola, soy Juan Vaccari
 
 Analista de datos en formación, enfocado en **limpieza, exploración y visualización de datos** para transformar información en insights accionables.  
 Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y business intelligence.
 
 ---
 
-## 🎓 Formación
+##  Formación
 
 - **Ciencia de Datos en Organizaciones** — Universidad Nacional de La Plata *(en curso)*
 - **Business Intelligence** — Talento Tech / Buenos Aires Aprende *(2025)*
@@ -15,7 +15,7 @@ Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y
 
 ---
 
-## 📌 Áreas de trabajo
+##  Áreas de trabajo
 
 - Limpieza y preparación de datos (Data Cleaning)
 - Exploración y análisis exploratorio (EDA)
@@ -25,7 +25,7 @@ Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y
 
 ---
 
-## 🛠️ Herramientas y tecnologías
+##  Herramientas y tecnologías
 
 **Lenguajes**
 - Python (Pandas, NumPy, Matplotlib)
@@ -43,7 +43,7 @@ Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y
 
 ---
 
-## 📊 Análisis de datos & fundamentos
+##  Análisis de datos & fundamentos
 
 - Medidas de tendencia central y dispersión
 - Distribuciones de frecuencia e histogramas
@@ -52,9 +52,9 @@ Actualmente ofreciendo **servicios freelance iniciales** en análisis de datos y
 
 ---
 
-## 📁 Proyectos destacados
+##  Proyectos destacados
 
-### 🪙 Bank- Credit-Conversion analysis 
+###  Bank- Credit-Conversion analysis 
 **Python · POWER BI · Pandas · Matplotlib · EDA**
 
 Analysis of credit funnel conversion and gender bias using Python and Power BI:
@@ -68,7 +68,7 @@ Main objectives:
 https://github.com/VaccariJuanP/credit-conversion-bias-analysis
 
 
-### 🛒 Online Retail — Customer, Product & Seasonality Analysis
+###  Online Retail — Customer, Product & Seasonality Analysis
 **Python · Pandas · Matplotlib · EDA**
 
 Análisis integral de un e-commerce:
